@@ -1,0 +1,24 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+ a {
+   text-decoration: none;
+ }
+ li {
+   text-decoration: none;
+   list-style: none;
+ }
+ body {
+  font-family: 'Raleway', sans-serif;
+ }
+ .logo {
+   box-sizing: border-box;
+   width: 355px;
+   height: 100px;
+   background: black;
+   
+ }
